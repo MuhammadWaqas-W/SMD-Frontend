@@ -20,13 +20,12 @@ Share My Dine is a unique platform designed to bring together culinary enthusias
 
 ## Technologies Used
 
-- NextJS: Server-side rendering for enhanced SEO and performance.
+- ReactJs: For building dynamic and responsive user interfaces.
 - MUI: Comprehensive React UI components for consistent design.
 - Redux: Predictable state management across the application.
 - React-Query: Efficient data fetching and state synchronization.
 - TypeScript: Static typing for improved code reliability.
 - SCSS: Advanced styling with variables, nesting, and mixins.
-- TanStack Data Grid: High-performance data tables and visualization.
 - ApexCharts: Interactive and responsive data charting.
 - Full Calendar: For managing schedules and events.
 
